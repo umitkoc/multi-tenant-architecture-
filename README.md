@@ -2,6 +2,9 @@
 
 ## SOURCE
 
+<img src="https://miro.medium.com/max/1400/1*ay3JkGpCCp46JM3Wq-iLIQ.jpeg" width="300">
+
+
 <ul>
   <li>(Youtube): 
   <a href="https://www.youtube.com/watch?v=mDHuE1R3iPY">
