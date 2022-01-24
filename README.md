@@ -29,4 +29,3 @@
     </a>
   </li>
 </ul>
-# multi-tenant-architecture-
